@@ -1,1 +1,0 @@
-print ("exampel_1")
